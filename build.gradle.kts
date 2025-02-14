@@ -29,6 +29,7 @@ repositories {
 
 dependencies {
     implementation("org.slf4j:slf4j-api")
+    implementation("ch.qos.logback:logback-classic")
 
     testImplementation("org.junit.jupiter:junit-jupiter-api")
     testImplementation("org.junit.jupiter:junit-jupiter-engine")
