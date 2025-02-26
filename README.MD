@@ -58,5 +58,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any questions or feedback, please reach out to [your email or GitHub profile].
+For any questions or feedback, please reach out to briza.tomas@gmail.com.
 
